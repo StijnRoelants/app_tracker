@@ -3,25 +3,25 @@
     {
       "text": "Start learning  ReactJS",
       "day": "2021-12-20",
-      "reminder": false,
+      "reminder": true,
       "id": 1
     },
     {
       "text": "Make exercises",
       "day": "2021-12-21",
-      "reminder": true,
+      "reminder": false,
       "id": 2
     },
     {
       "text": "Hope for the best!",
       "day": "2022-01-12",
-      "reminder": true,
+      "reminder": false,
       "id": 3
     },
     {
       "text": "Make Pre-exam",
       "day": "2021-12-22",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
