@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Start learning React",
+      "day": "Dec 22 at 9:30am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Try exercises",
+      "day": "Dec 21 at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Make pre-exam",
+      "day": "Dec 23 at 9:30am",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Hope for the best",
+      "day": "Jan 12th at 6:30pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
