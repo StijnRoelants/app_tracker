@@ -1,27 +1,27 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Start learning React",
-      "day": "Dec 22 at 9:30am",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "Try exercises",
-      "day": "Dec 21 at 2:30pm",
-      "reminder": false
-    },
-    {
-      "text": "Make pre-exam",
-      "day": "Dec 23 at 9:30am",
+      "text": "Start learning  ReactJS",
+      "day": "2021-12-20",
       "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Make exercises",
+      "day": "2021-12-21",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Hope for the best!",
+      "day": "2022-01-12",
+      "reminder": true,
       "id": 3
     },
     {
-      "text": "Hope for the best",
-      "day": "Jan 12th at 6:30pm",
-      "reminder": false,
+      "text": "Make Pre-exam",
+      "day": "2021-12-22",
+      "reminder": true,
       "id": 4
     }
   ]
