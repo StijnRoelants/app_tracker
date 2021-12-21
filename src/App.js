@@ -6,6 +6,7 @@ import Tasks from "./Components/Tasks";
 import AddTask from "./Components/AddTask";
 import Footer from "./Components/Footer";
 import About from "./About";
+import TaskDetail from "./Components/TaskDetail";
 
 function App() {
     const [tasks, setTasks] = useState([])
@@ -92,6 +93,7 @@ function App() {
                                                    onToggle={toggleReminder} /> : 'Nothing to see here'}
                     </>} />
                 <Route path='/about' element={<About/>}/>
+                <Route path='/task/:id' element={<TaskDetail/>}/>
             </Routes>
             <Footer />
         </div>
